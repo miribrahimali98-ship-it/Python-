@@ -1,0 +1,2 @@
+product_id,sale_date,sales_rep,COUNT(*)
+1058,03/02/2023 00:00,Eve,2
