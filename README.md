@@ -45,20 +45,5 @@ Currently focused on improving my **Data Analysis** skills through hands-on proj
 
 ---
 
-## 🎯 Goals
-
-- Build strong end-to-end data projects  
-- Become job-ready as a **Data Analyst**  
-- Contribute to open-source data projects
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/your-username  
-- LinkedIn: (add your profile link here)
-
----
-
 ⭐ If you like my work, feel free to star my repositories!
 
